@@ -113,6 +113,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroProgramer&theme=flag-pakistan&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>  
+
+## Private Repos: 112
+## Organization Repos: 132
   
 
 <br/>  
