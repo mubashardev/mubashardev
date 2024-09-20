@@ -108,9 +108,8 @@
 
 ## 📊Github Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=mubashardev&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mubashardev&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashardev&theme=flag-pakistan&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mubashardev&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashardev&theme=merko&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>  
 
