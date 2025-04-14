@@ -1,4 +1,3 @@
-
   
 
 ### <div align="center">I'm Mubashar, a full-time full-stack mobile apps developer 👨‍💻 since 2019 🚀</div>  
@@ -126,6 +125,7 @@
 
 <br/>  
 
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/mubasharcoder" target="_blank" style="display: inline-block;">
                 <img
@@ -134,3 +134,5 @@
                 />
             </a></div>
 <br />
+
+[![Coding since 25 March 2025](https://wakatime.com/badge/user/7f02119f-2129-41aa-9eb1-97e3c72fa99f.svg)](https://wakatime.com/@7f02119f-2129-41aa-9eb1-97e3c72fa99f)
