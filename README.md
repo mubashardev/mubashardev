@@ -112,6 +112,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mubashardev&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart          36 hrs 43 mins  ████████████████████░░░░░   79.97 %
+Other         5 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+Python        2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JavaScript    16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mubashardev#gh-light-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mubashardev#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
