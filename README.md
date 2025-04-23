@@ -110,7 +110,10 @@
 ## 📊Github Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mubashardev&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/mubashardev#gh-light-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mubashardev#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
 
 
