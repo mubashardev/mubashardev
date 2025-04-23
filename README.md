@@ -98,7 +98,7 @@
 <a href="https://stackoverflow.com/users/12005060/mubashar-hussain" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@mubashardev" target="_blank">
+<a href="https://www.youtube.com/@mubashardev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -112,15 +112,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mubashardev&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
 
 <!--START_SECTION:waka-->
-
-```txt
-Dart          36 hrs 43 mins  ████████████████████░░░░░   79.97 %
-Other         5 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Python        2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JSON          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JavaScript    16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-```
-
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mubashardev#gh-light-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/mubashardev#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/mubashardev/mubashardev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
