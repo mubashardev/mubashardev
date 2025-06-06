@@ -115,8 +115,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   5 hrs 32 mins   ████████████████████▓░░░░   82.96 %
-Dart    1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+Other   4 hrs 52 mins   ████████████████████▒░░░░   81.07 %
+Dart    1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
 ```
 
 <!--END_SECTION:waka-->
