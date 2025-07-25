@@ -115,11 +115,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other               14 hrs 37 mins  █████████████████████▓░░░   86.62 %
-Dart                2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Other               16 hrs 54 mins  ██████████████████████▓░░   90.36 %
+Dart                1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
 SRecode Template    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Gradle Kotlin DSL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
