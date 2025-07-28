@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://mubashar.dev">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Since+2018;Full+Stack+Developer;Flutter+Developer;Python+Developer;Building+Scalable+Apps;Automation+Expert;Founder+of+MicroProgramers;AI+Enthusiast;Automation+Enthusiast;&center=true&width=600&height=40">
   </a>
 </p>  
